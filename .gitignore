@@ -1,0 +1,61 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE and Editor Files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+.project
+.settings/
+*.iml
+
+# Dependency Directories
+node_modules/
+vendor/
+venv/
+env/
+.env/
+__pycache__/
+
+# Build and Distribution
+dist/
+build/
+out/
+target/
+*.pyc
+*.class
+*.jar
+*.war
+
+# Logs and Databases
+*.log
+*.sqlite
+*.db
+logs/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Package Files
+package-lock.json
+yarn.lock
+Pipfile.lock
+
+# Coverage and Test Reports
+coverage/
+.coverage
+htmlcov/
+test-results/
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
